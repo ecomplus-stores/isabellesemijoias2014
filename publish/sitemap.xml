@@ -194,6 +194,36 @@
     </url>
   
     <url>
+      <loc>https://isabellesemijoias2014.netlify.app/embalagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://isabellesemijoias2014.netlify.app/maletas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://isabellesemijoias2014.netlify.app/mostruario-de-pano</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://isabellesemijoias2014.netlify.app/pecas-em-promocao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://isabellesemijoias2014.netlify.app/isabelle-semi-joias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://isabellesemijoias2014.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
