@@ -26,6 +26,24 @@
     </url>
   
     <url>
+      <loc>https://isabellesemijoias2014.netlify.app/argola-grande</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://isabellesemijoias2014.netlify.app/argola-media</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://isabellesemijoias2014.netlify.app/argola-pequena</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://isabellesemijoias2014.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
