@@ -266,13 +266,13 @@
     </url>
   
     <url>
-      <loc>https://isabellesemijoias2014.netlify.app/pages/trocas</loc>
+      <loc>https://isabellesemijoias2014.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://isabellesemijoias2014.netlify.app/pages/termos</loc>
+      <loc>https://isabellesemijoias2014.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -308,13 +308,13 @@
     </url>
   
     <url>
-      <loc>https://isabellesemijoias2014.netlify.app/app/index</loc>
+      <loc>https://isabellesemijoias2014.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://isabellesemijoias2014.netlify.app/admin/index</loc>
+      <loc>https://isabellesemijoias2014.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
